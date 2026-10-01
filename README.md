@@ -1,7 +1,28 @@
-Home Lab Documentation
+# RHEL 10 Sysadmin Home Lab
 
-This is the beginning of my Home Lab.
+## Purpose
+Why I'm building this homelab.
 
-Goal: Get a sys admin position
+## Environment
+- Operating System:
+- Hardware:
+- RAM:
+- Storage:
+- Remote Access:
 
-First commit was made with a typo lol
+## Goals
+- Learn RHEL system administration
+- Prepare for RHCSA
+- Learn Git and GitHub
+- Learn Podman and containers
+- Learn virtualization
+- Learn automation
+
+## Ticket Progress
+- [x] TICKET-000 - Git Fundamentals
+- [ ] TICKET-001 - System Baseline
+- [ ] TICKET-002 - Server Identity
+- [ ] TICKET-003 - User Administration
+- [ ] TICKET-004 - Permissions
+- [ ] TICKET-005 - Web ServeHome Lab Documentation
+
