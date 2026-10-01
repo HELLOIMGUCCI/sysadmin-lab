@@ -24,5 +24,5 @@ Why I'm building this homelab.
 - [ ] TICKET-002 - Server Identity
 - [ ] TICKET-003 - User Administration
 - [ ] TICKET-004 - Permissions
-- [ ] TICKET-005 - Web ServeHome Lab Documentation
+- [ ] TICKET-005 - Web ServeHome
 
